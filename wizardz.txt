@@ -1,0 +1,17 @@
+img#1
+https://img.freepik.com/premium-vector/marketing-illustration_878233-772.jpg?w=740
+
+img#1.1
+https://storage.googleapis.com/twg-content/images/searchs-unique-role-nuggets-03_pQ.width-800.format-webp.webp
+
+img#1.2
+https://www.klippa.com/wp-content/uploads/2023/12/mailbox-automation.png
+
+img#3
+https://i.pinimg.com/564x/5e/b6/5f/5eb65fd4625702f65182539dbfc48ceb.jpg
+
+img#4
+https://www.thekompany.gr/wp-content/uploads/2020/09/The-Kompany-content-creation-production.jpg
+
+img#last
+https://cdn.dribbble.com/users/2212936/screenshots/5793505/media/45585b679ec30a9425c8dbbddc0795f6.png
